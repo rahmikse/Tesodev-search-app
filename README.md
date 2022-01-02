@@ -13,3 +13,7 @@ Install dependencies
 
 Run project
 ### `npm start # or yarn start`
+
+### View of the project :
+
+![](src/assets/images/tesodev.png)
